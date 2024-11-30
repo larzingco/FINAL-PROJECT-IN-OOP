@@ -1,18 +1,13 @@
-## Getting Started
+<div align="center"> <img src="https://github.com/user-attachments/assets/24418ef3-3b22-4106-8352-04cebf4daecf">  
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Ingco, Larz Byron E.**
 
-## Folder Structure
+***IT-2104***
 
-The workspace contains two folders by default, where:
+🏋️‍♂️🏋️‍♂️🏋️‍♂️</div>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## I. Project Overview 💪
+Fitness Macro Calculator System is a Java-based application designed to assist users in calculating their daily caloric needs and macronutrient distribution based on their fitness goals. The system allows users to input essential personal details such as name, age, weight, height, gender, and activity level. Based on these inputs, it provides tailored nutritional recommendations for different dietary phases: Maintenance, Cutting, or Bulking. By using established formulas for BMR (Basal Metabolic Rate) and TDEE (Total Daily Energy Expenditure), the system calculates precise caloric intake requirements and breaks them down into carbohydrates, proteins, and fats for a balanced diet.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+In addition to nutritional guidance, the application offers a structured weekly workout schedule. Users can view detailed exercise routines categorized by day and muscle group, helping them stay on track with their fitness goals. The program features a user-friendly interface built with Java Swing, enabling seamless navigation between input screens, result displays, and workout plans. This combination of personalized nutrition and exercise planning makes the Fitness Macro Calculator System a comprehensive tool for health and fitness management.
